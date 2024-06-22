@@ -1,2 +1,3 @@
+logsBucket: '${_LOGS_BUCKET_NAME}'
 options:
-  logging: CLOUD_LOGGING_ONLY
+  logging: GCS_ONL
